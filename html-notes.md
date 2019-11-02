@@ -93,8 +93,8 @@ xhtml1-strict.dtd">
 ```
 - Use *id* and *class* attributes to identify elements.
 - Block level elements include `<h1>`, `<p>`, `<ul>`, and `<li>` which starts a new line.
-- Inline elements include `<a>`, `<b>`, `<em>`, and `<img>` which appear to continue on the same line as their neighbouring elements.
+- Inline elements include `<a>`, `<b>`, `<em>`, and `<img>` which appear to continue on the same line as their neighboring elements.
 - Using `<span>` to contain a section of text where there is no other suitable element to differentiate it from its surrounding text or to contain multiple inline elements.
-- `<iframe>` is a little windown that has been cut into your page to view another page. Attributes include `src`, `height`,  `width`, `scrolling`, `frameborder`, and `seamless`.
+- `<iframe>` is a little window that has been cut into your page to view another page. Attributes include `src`, `height`,  `width`, `scrolling`, `frameborder`, and `seamless`.
 - `<meta>` inside the `<head>` element contains information about the webpage used by search engines. With attributes of `description`, `keywords`, `robots`, `author`, `pragma`, and `expires`.
 

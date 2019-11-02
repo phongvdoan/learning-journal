@@ -1,6 +1,6 @@
 # CSS - Color
 You can specify color in three ways:
-1. RGB values meaning Red, greena and blue.
+1. RGB values meaning Red, green and blue.
 2. Hex Code which is a six-digit code that represents the amount of red, green, and blue in a color.
 3. One of the 147 predefined color names.
 For foreground color:
@@ -31,7 +31,7 @@ When picking a color, it is important to ensure that there is enough contrast fo
 ## Alternate
 
  HSL and HSLA are an alternate way to specify colors. hsl followed by the values inside parentheses for:
-    - Hue which is expressed as an anlge from 0 to 360 degrees
+    - Hue which is expressed as an angle from 0 to 360 degrees
     - Saturation as a percentage
     - Lightness from 0 to 100 percent, white to black
     - Alpha is a number between 0 to 1.0 for transparency.

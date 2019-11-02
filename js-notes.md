@@ -3,7 +3,7 @@
 HTML is where the content lives, which gives the page structure and adds semantics. CSS enhances the HTML page as a presentation layer which is how the content is presented. JavaScript is how the page behaves with interactivity.
 JavaScript increases the user experience with the site.
 
-In `document.write('Good Morning');` doument is the object. The period is the member operator which allows access of the members of the bboject. Write() is the method of the object document and inside of the parenthesis is the parameter.
+In `document.write('Good Morning');` document is the object. The period is the member operator which allows access of the members of the object. Write() is the method of the object document and inside of the parenthesis is the parameter.
 
 ## Statements
 - A script is a series of instructions that a computer can follow one by one.
@@ -43,13 +43,13 @@ var message;
 message = 'Hello!';
 ```
 ### Boolean Data Type
-These can either have one of two values: *true* or *false*. Its like a light switch, either on or off. Booloeans are used when your code can take more than one path.
+These can either have one of two values: *true* or *false*. Its like a light switch, either on or off. Booleans are used when your code can take more than one path.
 ```
 var cold;
 cold = true;
 ```
 ## Shorthand
-1. Varibles are declared and values assigned in the same statement.
+1. Variables are declared and values assigned in the same statement.
 - `var price = 5;`
 2. All variables are declared on the same line, then values assigned to each.
 - `var price, quantity, total;`

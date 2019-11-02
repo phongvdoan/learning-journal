@@ -9,7 +9,7 @@
 - Centralized Version Control
     - A single server storing all changes and file versions that can be accessed by many clients.
 - Distributed Version Control
-    - Allows for mirrored repositores that can be replace any lost information.
+    - Allows for mirrored repositories that can be replace any lost information.
 
 ## Git
 
@@ -53,7 +53,7 @@
     - Head most recent commit
 - Saving Changes
     - Tracked files are part of the most recent snapshot so it can be modified` unmodified, or staged.
-    - Untracked files were not in the last snapshot
+    - Not tracked files were not in the last snapshot
 
 ### Life Cycle of File Status
 
@@ -69,7 +69,7 @@
 
 - `git add filename` or `git add *`
 
-### Commiting a File
+### Committing a File
 
 - `git commit -m "made changes to.."`
 - `git commit -a`
