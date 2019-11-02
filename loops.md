@@ -12,6 +12,7 @@ In a condition, there are usually one operator and two operands which are placed
     - `(height > weight)`
 You can also use expressions with comparison operators. The operands do not have to be single value.
     - `(speed1 + distance1) > (speed2 + distance2)`
+
 ## Logical Operators
 These operators allow you to compare the results of more than one comparison operator. Logical expressions are evaluated left to right. If the first condition can provide enough information to get the answer, then there is no need to evaluate the other.
 - `&&` logical And. It tests more than one condition.
@@ -27,15 +28,19 @@ These operators allow you to compare the results of more than one comparison ope
 - `!` logical Not. This takes a single Boolean value and inverts it.
     - !true returns false
     - !false returns true
+
 ## Loops
 Loops check a condition. If it returns true then the code block will run. The condition will be checked again until it returns false.
+
 ### For Loops
 This is used if you need the run the code a specific amount number of times. The condition is usually a counter which is used to tell how many times the loop should run.
     - `for (var i = 0; i < 10; i++)`
 In the for loop, the `var i = 0` is the initialization which is the creating of a variable to act as a counter. The condition is `i < 10`. And the update is `i++` which increases the variable by 1 every time the code block runs.
+
 ### While Loops
 This is used if you do not know how many times the code should run. And it will run as long as the condition returns true.
     - `While (i < 10)`
+    
 ### Do While Loops
 This is similar to the while loop, except that it will run at least once before testing the condition even if it is false.
 
