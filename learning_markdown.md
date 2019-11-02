@@ -32,7 +32,7 @@
    > \!\[Alt Text]\(URL to image)
    
    > Example: \!\[Win]\(../img/fitness.jpg)
-   > ![Win](../img/fitness.jpg)
+   > ![Win](img/fitness.jpg)
    
 - Links
    > It is automatic when using https://www.codefellows.org
