@@ -20,10 +20,10 @@ These operators allow you to compare the results of more than one comparison ope
     - **false** && **true** returns false
     - **false** && **false** returns false
 - `||` logical Or. It tests at least one condition
-    - **true** || **true** returns true
-    - **true** || **false** returns true
-    - **false** || **true** returns true
-    - **false** || **false** returns false
+    - **true** \|\| **true** returns true
+    - **true** \|\| **false** returns true
+    - **false** \|\| **true** returns true
+    - **false** \|\| **false** returns false
 - `!` logical Not. This takes a single Boolean value and inverts it.
     - !true returns false
     - !false returns true
